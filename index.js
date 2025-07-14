@@ -1,3 +1,4 @@
+
 const questions = [
     "Which ancient civilization is known for its pyramids and pharaohs?",
     "In which river valley did the ancient Sumerian civilization emerge?",
@@ -42,9 +43,51 @@ const answers = [
     "Mickey Mouse",
     "Two",
     "Corsica"
+    "Egyptian",
+    "Tigris-Euphrates Valley",
+    "Hieroglyphics",
+    "The German invasion of Poland",
+    "USSR",
+    "Thomas Jefferson",
+    "13",
+    "Apollo",
+    "George Washington",
+    "Delaware",
+    "Spain",
+    "Treaty of Paris",
+    "Kenya",
+    "Congo",
+    "1944",
+    "1999",
+    "Zaibatsu",
+    "Mickey Mouse",
+    "Two",
+    "Corsica"
 ];
 
 const allAnswers = [
+    ["Aztec", "Roman", "Egyptian", "Greek"],
+    ["Nile Valley", "Indus Valley", "Yellow River Valley", "Tigris-Euphrates Valley"],
+    ["Hieroglyphics", "Cuneiform", "Alphabet", "Pictograms"],
+    ["The assassination of Archduke Franz Ferdinand", "The German invasion of Poland", "The bombing of Pearl Harbor", "The Battle of Britain"],
+    ["Germany", "Italy", "Japan", "USSR"],
+    ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "James Madison"],
+    ["12", "13", "14", "7"],
+    ["Mercury", "Gemini", "Apollo", "Scorpio"],
+    ["John Adams", "Thomas Jefferson", "George Washington"],
+    ["New York", "Massachusetts", "Vermont", "Delaware"],
+    ["Britain", "France", "Portugal", "Spain"],
+    ["Treaty of Versailles", "Treaty of Paris", "Treaty of Tordesillas", "Treaty of Ghent"],
+    ["Nigeria", "South Africa", "Zimbabwe", "Kenya"],
+    ["Nigeria", "Kenya", "Ghana", "Congo"],
+    ["1944", "1947", "1949", "1953"],
+    ["1995", "1997", "1999", "2001"],
+    ["Zaibatsu", "Keiretsu", "Sogo Shosha", "Shinkin"],
+    ["Bugs Bunny", "Mickey Mouse", "Donald Duck", "Popeye"],
+    ["One", "Two", "Three", "Four"],
+    ["Sicily", "Malta", "Corsica", "Cyprus"],
+];
+
     ["Aztec", "Roman", "Egyptian", "Greek"],
     ["Nile Valley", "Indus Valley", "Yellow River Valley", "Tigris-Euphrates Valley"],
     ["Hieroglyphics", "Cuneiform", "Alphabet", "Pictograms"],
